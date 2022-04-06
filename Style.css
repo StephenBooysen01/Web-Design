@@ -1,0 +1,61 @@
+*,
+*::before,
+*::after {
+    
+    padding: 0;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    font-weight: bold;
+}
+mark{
+
+    background-color:#607D8B ;
+}
+    
+ 
+    
+h2{
+    font-size: 100%;
+   
+  
+    
+
+ }
+.top{
+
+    background-color: #263238;
+    color: white;
+    padding-block-end: 1px;
+   
+   
+
+}
+.middle{
+
+    background-color: #1565c0;
+    color: white;
+    
+   
+    
+
+}
+.bottom{
+
+    background-color: #42A5f5;
+    color: white;
+    
+  
+
+}
+ul{
+    margin: 0;
+
+}
+
+p{
+
+    margin: 0;
+}
